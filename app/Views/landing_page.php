@@ -147,7 +147,7 @@
             { id: 5, nama: "Zildjian Planet Z Cymbal Set", harga: 2300000, kategori: "Drum & Perkusi", rating: 4.6, reviews: 156, img: "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=400" },
             { id: 6, nama: "Senar Gitar D'Addario EXL110", harga: 110000, kategori: "Aksesoris", rating: 4.9, reviews: 875, img: "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=400" },
             { id: 7, nama: "Yamaha P-45 Digital Piano", harga: 7200000, kategori: "Keyboard & Piano", rating: 4.8, reviews: 210, img: "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=400" },
-            { id: 8, nama: "Kabel Jack Instrumen 5m", harga: 85000, kategori: "Aksesoris", rating: 4.5, reviews: 320, img: "https://images.unsplash.com/photo-1574971842060-da8ccf5a6dc6?w=400" }
+            { id: 8, nama: "Kabel Jack Instrumen 5m", harga: 85000, kategori: "Aksesoris", rating: 4.9, reviews: 320, img: "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=400" }
         ];
 
         let keranjang = [];
